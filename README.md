@@ -2,11 +2,12 @@
 <table width="100%" style="border-collapse: collapse; border: none; margin-bottom: 10px;">
   <tr style="border: none; background: transparent;">
     <td align="left" valign="middle" style="border: none; padding: 0;">
-      <!-- Smooth Code Reveal Animation -->
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2000&pause=5000&color=FFFFFF&align=left&vCenter=true&width=400&lines=YiLaiKezi" alt="Name Reveal" />
+      <!-- Aesthetic GIF (Left Side) -->
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWN6Ymozd283NnFlaHVjMWY4bHZqZG1vNHZnZGt6aDRuY2U1bGtneCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ooNYpzXriX2J7y5Di0/giphy.gif" alt="Vibe" height="65" style="border-radius: 6px; border: 1px solid #30363d; object-fit: cover;" />
     </td>
     <td align="right" valign="middle" style="border: none; padding: 0;">
-      <code style="color: #ffffff; background: #21262d; padding: 4px 10px; border-radius: 6px; font-size: 12px; border: 1px solid #30363d; font-family: 'Fira Code', monospace; white-space: nowrap;">Learn programming, not programming languages.</code>
+      <!-- Bigger, Faster Name Reveal (Right Side) -->
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=42&duration=1200&pause=5000&color=FFFFFF&align=right&vCenter=true&width=400&lines=YiLaiKezi" alt="Name Reveal" />
     </td>
   </tr>
 </table>
@@ -19,6 +20,14 @@
     </td>
   </tr>
 </table>
+
+### ⚡ Main Principle
+
+<p align="left">
+  <code style="color: #ffffff; background: #161b22; padding: 10px 16px; border-radius: 6px; font-size: 15px; border-left: 3px solid #8b949e; font-family: 'Fira Code', monospace; letter-spacing: 0.5px; box-shadow: 0 4px 10px rgba(0,0,0,0.5);">
+    Learn programming, not programming languages.
+  </code>
+</p>
 
 > *Syntax, frameworks, and tools will constantly shift over time. The ultimate metric of a developer is not memorization, but the absolute technical adaptability to break down complex problems, debug through failures, and figure things out.*
 
