@@ -1,1 +1,1 @@
-<img width="374" height="211" alt="t-throne-of-seal-movie" src="https://github.com/user-attachments/assets/82e675d5-3741-431a-ba83-49aacf3e5657" />
+![gg](https://github.com/user-attachments/assets/1c43e45b-201e-446f-b9a1-3d00504d23a0)
