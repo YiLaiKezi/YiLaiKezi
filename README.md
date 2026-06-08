@@ -2,8 +2,8 @@
 <table width="100%" style="border-collapse: collapse; border: none; margin-bottom: 10px;">
   <tr style="border: none; background: transparent;">
     <td align="left" valign="middle" style="border: none; padding: 0;">
-      <!-- Aesthetic GIF (Left Side) -->
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWN6Ymozd283NnFlaHVjMWY4bHZqZG1vNHZnZGt6aDRuY2U1bGtneCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ooNYpzXriX2J7y5Di0/giphy.gif" alt="Vibe" height="65" style="border-radius: 6px; border: 1px solid #30363d; object-fit: cover;" />
+      <!-- Aesthetic GIF (Left Side - Clean URL) -->
+      <img src="https://media.giphy.com/media/ooNYpzXriX2J7y5Di0/giphy.gif" alt="Vibe" height="65" style="border-radius: 6px; border: 1px solid #30363d; object-fit: cover;" />
     </td>
     <td align="right" valign="middle" style="border: none; padding: 0;">
       <!-- Bigger, Faster Name Reveal (Right Side) -->
