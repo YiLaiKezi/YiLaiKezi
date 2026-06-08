@@ -6,7 +6,7 @@
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2000&pause=5000&color=FFFFFF&align=left&vCenter=true&width=400&lines=YiLaiKezi" alt="Name Reveal" />
     </td>
     <td align="right" valign="middle" style="border: none; padding: 0;">
-      <code style="color: #ffffff; background: #21262d; padding: 4px 10px; border-radius: 6px; font-size: 12px; border: 1px solid #30363d; font-family: 'Fira Code', monospace; white-space: nowrap;">Year III • AI & Data Science</code>
+      <code style="color: #ffffff; background: #21262d; padding: 4px 10px; border-radius: 6px; font-size: 12px; border: 1px solid #30363d; font-family: 'Fira Code', monospace; white-space: nowrap;">Learn programming, not programming languages.</code>
     </td>
   </tr>
 </table>
@@ -20,8 +20,6 @@
   </tr>
 </table>
 
-> **"Learn programming, not programming languages."** 
-> 
 > *Syntax, frameworks, and tools will constantly shift over time. The ultimate metric of a developer is not memorization, but the absolute technical adaptability to break down complex problems, debug through failures, and figure things out.*
 
 ---
