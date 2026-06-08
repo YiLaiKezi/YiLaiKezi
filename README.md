@@ -1,35 +1,34 @@
-# YiLaiKezi
+# Hi, I'm YiLaiKezi 👋
 
-Third-year Artificial Intelligence and Data Science student.
+> **Personal Principle:** Learn programming, not programming languages. Languages change. The ability to figure things out tends to be more useful.
 
-I enjoy building things and figuring out how they work. Sometimes these happen in the wrong order.
+Third-year **Artificial Intelligence and Data Science** student. I enjoy building things and figuring out how they work. Sometimes these happen in the wrong order. Most of what I know came from building, breaking, debugging, rebuilding, and occasionally reading the documentation after exhausting all other options.
 
-I've worked on Android applications, desktop applications, AI projects, and spent more time around Linux than was probably necessary.
+---
 
-Most of what I know came from building, breaking, debugging, rebuilding, and occasionally reading the documentation after exhausting the other options.
+### 🛠️ What I've Been Up To
 
-## What I've Been Up To
+* **Mobile Development:** Crafting cross-platform Android applications with **Flutter**.
+* **Desktop Applications:** Developing native tools and experimenting with different architectural approaches.
+* **Linux & Systems:** Exploring Linux ecosystems through years of distro hopping, deep customization, and system configuration.
+* **Artificial Intelligence:** Building AI-related projects and learning far more from catastrophic failures than successes.
+* **Version Control:** Using **Git** to keep track of progress, mistakes, and occasionally both at the same time.
 
-→ Building Android applications with Flutter.
+---
 
-→ Developing desktop applications and experimenting with different approaches along the way.
+### 🧰 Tech Stack & Tools
 
-→ Exploring Linux systems through years of distro hopping, customization, and system configuration.
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | Python, C, Dart |
+| **Frameworks & Tools** | Flutter, Android Studio, Git |
+| **Environments** | Linux (Arch/Debian/Fedora), Core Utils |
+| **AI & Data Science** | Jupyter, Data Analytics Pipelines |
 
-→ Building AI-related projects and learning far more from failures than successes.
+---
 
-→ Using Git to keep track of progress, mistakes, and occasionally both at the same time.
+### 📊 Current State
 
-## Personal Principle
-
-> Learn programming, not programming languages.
-
-Languages change.
-
-The ability to figure things out tends to be more useful.
-
-## Current State
-
-Still curious enough to start new projects.
-
-Still optimistic enough to think they'll be smaller than they actually are.
+```text
+[■■■■■■■■■■■■■■■■■■□□] 90% Curiosity (Still starting new projects)
+[■■■■■■■■■■■■■■■■■■■■] 100% Optimism (Thinking they'll be smaller than they are)
