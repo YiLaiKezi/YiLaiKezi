@@ -1,29 +1,28 @@
 <!-- HEADER START -->
-<table align="center" width="100%" style="border-collapse: collapse; border: none; margin-bottom: 20px;">
+<table width="100%" style="border-collapse: collapse; border: none; margin-bottom: 10px;">
   <tr style="border: none; background: transparent;">
-    <td align="center" valign="middle" style="border: none; padding: 0;">
-      <!-- Main Identity Title -->
-      <h1 align="center" style="font-family: 'Fira Code', monospace; font-size: 36px; font-weight: 700; color: #ffffff; margin-bottom: 10px; letter-spacing: -0.5px;">
-        YiLaiKezi
-      </h1>
-      <!-- Core Principle Block -->
-      <p align="center" style="font-family: 'Fira Code', monospace; color: #8b949e; font-size: 16px; font-weight: 600; margin-top: 0; margin-bottom: 20px; letter-spacing: 0.5px;">
-        // LEARN PROGRAMMING, NOT PROGRAMMING LANGUAGES
-      </p>
+    <td align="left" valign="middle" style="border: none; padding: 0;">
+      <!-- Smooth Code Reveal Animation -->
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2000&pause=5000&color=FFFFFF&align=left&vCenter=true&width=400&lines=YiLaiKezi" alt="Name Reveal" />
+    </td>
+    <td align="right" valign="middle" style="border: none; padding: 0;">
+      <code style="color: #ffffff; background: #21262d; padding: 4px 10px; border-radius: 6px; font-size: 12px; border: 1px solid #30363d; font-family: 'Fira Code', monospace; white-space: nowrap;">Year III • AI & Data Science</code>
     </td>
   </tr>
 </table>
 
-<table align="center" width="100%" style="border-collapse: collapse; border: none; margin-top: -10px; margin-bottom: 25px;">
+<table width="100%" style="border-collapse: collapse; border: none; margin-top: -10px; margin-bottom: 20px;">
   <tr style="border: none; background: transparent;">
-    <td align="center" style="border: none; padding: 0;">
-      <!-- High-Contrast Geometric Subquote Section -->
-      <p align="center" style="max-width: 680px; margin: 0 auto; font-size: 14.5px; line-height: 1.7; color: #c9d1d9;">
-        <i>Syntax, frameworks, and tools will constantly shift over time. The ultimate metric of a developer is not memorization, but the absolute technical adaptability to break down complex problems, debug through failures, and figure things out.</i>
-      </p>
+    <td style="border: none; padding: 0;">
+      <!-- Animated Border Underline Accent -->
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=10&duration=1000&color=30363D&align=left&vCenter=true&width=1000&lines=%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90" alt="Divider" style="display: block; margin-top: -5px;" />
     </td>
   </tr>
 </table>
+
+> **"Learn programming, not programming languages."** 
+> 
+> *Syntax, frameworks, and tools will constantly shift over time. The ultimate metric of a developer is not memorization, but the absolute technical adaptability to break down complex problems, debug through failures, and figure things out.*
 
 ---
 <!-- HEADER END -->
