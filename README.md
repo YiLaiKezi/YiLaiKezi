@@ -1,28 +1,24 @@
-<!-- ELITE TYPOGRAPHY HEADER START -->
-<table align="center" width="100%" style="border-collapse: collapse; border: none; margin-bottom: 15px;">
+<!-- HEADER START -->
+<table align="center" width="100%" style="border-collapse: collapse; border: none; margin-bottom: 20px;">
   <tr style="border: none; background: transparent;">
-    <td align="left" valign="top" style="border: none; padding: 0; font-family: 'Fira Code', 'Courier New', monospace;">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3200&pause=1000&color=FFFFFF&align=left&vCenter=true&width=600&lines=System.init(%22YiLaiKezi%22);%E2%96%B8+AI+%26+Data+Science+Student;%E2%96%B8+Flutter+Android+Dev;%E2%96%B8+Breaking+the+AI+Crutch" alt="Typing Engine" />
-      
-      <p style="margin-top: 15px; color: #c9d1d9; font-size: 14px; line-height: 1.7; letter-spacing: -0.1px;">
-        <code style="color: #ffffff; background: #21262d; padding: 4px 10px; border-radius: 6px; font-size: 11px; border: 1px solid #30363d; font-weight: 600; letter-spacing: 0.5px;">LEVEL 03 • UNDERGRADUATE</code>
+    <!-- Avatar Section -->
+    <td align="center" valign="middle" width="25%" style="border: none; padding: 10px;">
+      <img src="https://i.pinimg.com/736x/21/df/4b/21df4b875ea2476b701c9b68ecbc5f89.jpg" width="130" height="130" alt="YiLaiKezi" style="border-radius: 16px; border: 1px solid #30363d; filter: grayscale(100%) contrast(110%); object-fit: cover;">
+    </td>
+    <!-- Text / Typing Section -->
+    <td align="left" valign="middle" width="75%" style="border: none; padding-left: 20px; font-family: 'Fira Code', monospace;">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=FFFFFF&align=left&vCenter=true&width=500&lines=YiLaiKezi+%3A%3A+Core+Init;%E2%96%B8+AI+%26+Data+Science;%E2%96%B8+Flutter+Android+Dev;%E2%96%B8+Breaking+Syntax+Limits" alt="Typing Banner" />
+      <p style="margin-top: 8px; margin-bottom: 0; color: #8b949e; font-size: 14px; line-height: 1.6;">
+        <code style="color: #ffffff; background: #21262d; padding: 3px 8px; border-radius: 6px; font-size: 12px; border: 1px solid #30363d;">Year III • Undergraduate</code>
         <br><br>
-        <strong>Core Doctrine:</strong> <i>"Learn programming, not programming languages."</i>
+        <strong>Core Philosophy:</strong> <i>"Learn programming, not programming languages."</i>
       </p>
     </td>
   </tr>
 </table>
 
-<table width="100%" style="border-collapse: collapse; border: none; margin-top: -5px;">
-  <tr style="border: none; background: transparent;">
-    <td style="border: none; padding: 0;">
-      <div style="border-left: 3px solid #30363d; padding-left: 16px; margin: 10px 0; font-style: italic; color: #8b949e; font-size: 14px; line-height: 1.5;">
-        "A man falls because he walks, but he can only learn to walk by falling."<br>
-        <span style="font-size: 11px; color: #58a6ff; font-family: sans-serif; font-weight: 600; letter-spacing: 0.5px; text-transform: uppercase; display: block; margin-top: 6px;">— The journey to transition from AI prototyping to deep, independent technical mastery.</span>
-      </div>
-    </td>
-  </tr>
-</table>
+> **"A man falls because he walks, but he can only learn to walk by falling."** 
+> *The grind to transition from AI assisted prototyping to deep, independent technical mastery.*
 
 ---
-<!-- ELITE TYPOGRAPHY HEADER END -->
+<!-- HEADER END -->
