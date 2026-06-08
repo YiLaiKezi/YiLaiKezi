@@ -18,7 +18,7 @@
 </table>
 
 > **"A man falls because he walks, but he can only learn to walk by falling."** 
-> *The grind to transition from AI assisted prototyping to deep, independent technical mastery.*
+> *Languages change. The ability to figure things out tends to be more useful.*
 
 ---
 <!-- HEADER END -->
