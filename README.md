@@ -76,7 +76,7 @@ The primary underlying host environments and target platforms navigated for syst
 <br>
 
 <div align="left">
-  <a href="YOUR_KOFI_LINK_HERE" target="_blank"><img src="https://github.com/user-attachments/assets/1e77384d-c391-4c10-bf91-bc4826635059" height="80" alt="Support me on Ko-fi" /></a>
+  <a href="YOUR_KOFI_LINK_HERE" target="_blank"><img src="https://github.com/user-attachments/assets/1e77384d-c391-4c10-bf91-bc4826635059" height="100" alt="Support me on Ko-fi" /></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="YOUR_RAZORPAY_LINK_HERE" target="_blank"><img src="https://github.com/user-attachments/assets/b36e77b4-050a-402d-a1f0-524e93adc1d1" height="80" style="border: 2px solid white; border-radius: 12px; padding: 10px 20px;" alt="Support via Razorpay" /></a>
+  <a href="YOUR_RAZORPAY_LINK_HERE" target="_blank"><img src="https://github.com/user-attachments/assets/b36e77b4-050a-402d-a1f0-524e93adc1d1" height="60" alt="Support via Razorpay" /></a>
 </div>
