@@ -11,4 +11,6 @@
 
 ---
 <!-- HEADER END -->
+### 👤 whoami
 
+> **Year III AI & Data Science Undergraduate.** > I spend my time building data models, modifying Linux systems, messing with Android internals, and reading way too much Manhwa. If it has a system architecture, I'm probably trying to customize it or figure out how it works under the hood.
