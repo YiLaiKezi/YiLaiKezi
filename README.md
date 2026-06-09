@@ -14,5 +14,7 @@
 ### About me
 
 • **Year III Artificial Intelligence & Data Science Student.**
+
 • Know enough about Android internals and Linux to work comfortably in the terminal, break down system configurations, and manually fix things when they go wrong. 
+
 • Spending time writing raw code, dealing with the inevitable build failures, and pushing working projects to GitHub.
