@@ -11,13 +11,11 @@
 
 ---
 <!-- HEADER END -->
-### ⚡ about me
+### ⚡ About me
 
 • **Year III Artificial Intelligence & Data Science Student.**
+> Honestly just tired of copy-pasting bad AI code, so right now the goal is to actually learn how to program, manually debug the heavy errors, and figure out how systems run.
 
+### Connect with me
 
-Honestly just tired of copy-pasting bad AI code, so right now the goal is to actually learn how to program, manually debug the heavy errors, and figure out how systems run.
-
-### 🔌 connect with me
-
-> 📂 **GitHub** &nbsp;&middot;&nbsp; 💼 **LinkedIn** &nbsp;&middot;&nbsp; 📧 **Email**
+> 💼 **LinkedIn** &nbsp;&middot;&nbsp; 📧 **Email**
