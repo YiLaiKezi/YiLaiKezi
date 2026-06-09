@@ -15,4 +15,5 @@
 ### ⚡ whoami
 
 • **Year III Artificial Intelligence & Data Science Undergraduate.**
-> *An entity driven to understand system architectures from the ground up—exploring OS internals, modifying configurations, and breaking down how things run under the hood. Currently cutting out AI shortcuts to master independent development, solve complex debugging failures manually, and build reliable software from scratch.*
+  `System-focused entity exploring OS internals, modifying configurations, and breaking down architectures.`
+  `Currently cutting out AI shortcuts to master independent development and build software from scratch.`
