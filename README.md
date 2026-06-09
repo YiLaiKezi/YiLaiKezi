@@ -22,8 +22,7 @@
 * `$ grep "editor"`
   VS Code enjoyer.
 
-  
-### Tech Stack
+### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F7F7F7&width=435&lines=%24+cat+tech-stack.md;%23+My+Tech+Stack" alt="Typing Effect" />
 
 * **$ ls /languages**  
   <br>
@@ -37,4 +36,4 @@
 
 * **$ ls /environments**  
   <br>
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /> &nbsp; <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /> &nbsp; <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> &nbsp; <img src="https://img.shields.io/badge/Android_OS-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
