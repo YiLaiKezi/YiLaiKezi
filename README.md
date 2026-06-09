@@ -11,11 +11,8 @@
 
 ---
 <!-- HEADER END -->
-### ⚡ about me
+### About me
 
 • **Year III Artificial Intelligence & Data Science Student.**
-> Focused on building things manually, grinding through complex debugging errors, and understanding exactly how system configurations and logic run.
-
-### connect with me
-
-> 💼 **[LinkedIn](https://www.linkedin.com/in/)** &nbsp;&middot;&nbsp; ✈️ **[Telegram](https://t.me/YiLaiKezi)** &nbsp;&middot;&nbsp; 💬 **Discord:** `yilaikezi`
+• Know enough about Android internals and Linux to work comfortably in the terminal, break down system configurations, and manually fix things when they go wrong. 
+• Spending time writing raw code, dealing with the inevitable build failures, and pushing working projects to GitHub.
