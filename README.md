@@ -28,11 +28,11 @@
 The fundamental building blocks used to translate logic into scalable applications. Focused on strongly-typed execution and structured scripting.
 
 <p align="left">
-  <img src="https://github-profile-navigator.vercel.app/api/v1/badges?name=Python&logo=Python&color=1e293b&logoColor=3776AB&style=3d" height="85" alt="Python" />
-  &nbsp;
-  <img src="https://github-profile-navigator.vercel.app/api/v1/badges?name=Dart&logo=Dart&color=1e293b&logoColor=0175C2&style=3d" height="85" alt="Dart" />
-  &nbsp;
-  <img src="https://github-profile-navigator.vercel.app/api/v1/badges?name=Java&logo=OpenJDK&color=1e293b&logoColor=ED8B00&style=3d" height="85" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="40" alt="Python" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" height="40" alt="Dart" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="40" alt="Java" />
 </p>
 
 <br>
@@ -41,9 +41,9 @@ The fundamental building blocks used to translate logic into scalable applicatio
 The core environments and development engines utilized to compile, build, and deploy high-performance cross-platform mobile applications.
 
 <p align="left">
-  <img src="https://github-profile-navigator.vercel.app/api/v1/badges?name=Flutter&logo=Flutter&color=1e293b&logoColor=02569B&style=3d" height="85" alt="Flutter" />
-  &nbsp;
-  <img src="https://github-profile-navigator.vercel.app/api/v1/badges?name=Android%20Studio&logo=AndroidStudio&color=1e293b&logoColor=3DDC84&style=3d" height="85" alt="Android Studio" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" height="40" alt="Flutter" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" height="40" alt="Android Studio" />
 </p>
 
 <br>
@@ -52,9 +52,9 @@ The core environments and development engines utilized to compile, build, and de
 The primary underlying host environments and target platforms navigated for systems configurations, terminal operations, and hardware execution.
 
 <p align="left">
-  <img src="https://github-profile-navigator.vercel.app/api/v1/badges?name=Windows%2011&logo=Windows11&color=1e293b&logoColor=0078D4&style=3d" height="85" alt="Windows 11" />
-  &nbsp;
-  <img src="https://github-profile-navigator.vercel.app/api/v1/badges?name=Linux&logo=Linux&color=1e293b&logoColor=FCC624&style=3d" height="85" alt="Linux" />
-  &nbsp;
-  <img src="https://github-profile-navigator.vercel.app/api/v1/badges?name=Android%20OS&logo=Android&color=1e293b&logoColor=3DDC84&style=3d" height="85" alt="Android OS" />
+  <img src="https://img.shields.io/badge/Windows_11-0078D4?style=for-the-badge&logo=windows11&logoColor=white" height="40" alt="Windows 11" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="40" alt="Linux" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Android_OS-3DDC84?style=for-the-badge&logo=android&logoColor=white" height="40" alt="Android OS" />
 </p>
