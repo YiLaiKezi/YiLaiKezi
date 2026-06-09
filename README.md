@@ -13,10 +13,9 @@
 <!-- HEADER END -->
 ### About me
 
-**🎓 Year III Artificial Intelligence & Data Science Student.**
+> **👨‍💻 Year III Artificial Intelligence & Data Science Student.**
 
-> 🛠️ **Systems & Core**
-> Know enough about Android internals and Linux to work comfortably in the terminal, break down system configurations, and manually fix things when they go wrong.
-
-> 💻 **Development**
-> Spending time writing raw code, dealing with the inevitable build failures, and pushing working projects to GitHub.
+* `$ ls /skills/`
+  Know enough about Android internals and Linux to work comfortably in the terminal, break down system configurations, and manually fix things when they go wrong.
+* `$ git commit -m "progress"`
+  Spending time writing raw code, dealing with the inevitable build failures, and pushing working projects to GitHub.
