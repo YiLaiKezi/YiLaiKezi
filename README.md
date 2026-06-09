@@ -28,33 +28,21 @@
 The fundamental building blocks used to translate logic into scalable applications. Focused on strongly-typed execution and structured scripting.
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="40" alt="Python" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" height="40" alt="Dart" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="40" alt="Java" />
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py,dart,java&perline=3" height="75" alt="Languages" /></a>
 </p>
-
-<br>
 
 #### Native Ecosystems & Engineering Frameworks
 The core environments and development engines utilized to compile, build, and deploy high-performance cross-platform mobile applications.
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" height="40" alt="Flutter" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" height="40" alt="Android Studio" />
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=flutter,androidstudio&perline=2" height="75" alt="Frameworks and IDEs" /></a>
 </p>
-
-<br>
 
 #### Operating Systems & Target Environments
 The primary underlying host environments and target platforms navigated for systems configurations, terminal operations, and hardware execution.
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Windows_11-0078D4?style=for-the-badge&logo=windows11&logoColor=white" height="40" alt="Windows 11" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="40" alt="Linux" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Android_OS-3DDC84?style=for-the-badge&logo=android&logoColor=white" height="40" alt="Android OS" />
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=windows" height="75" alt="Windows" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=linux" height="75" alt="Linux" /></a>
+  <a href="https://github.com/marwin1991/profile-technology-icons"><img src="https://github.com/marwin1991/profile-technology-icons/blob/main/badges/dark/android.png?raw=true" height="75" alt="Android OS" /></a>
 </p>
