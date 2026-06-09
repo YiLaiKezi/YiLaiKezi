@@ -24,8 +24,28 @@
 
 ### Tech Stack
 
-| Category | Technologies |
-| :--- | :--- |
-| **Languages** | <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /> |
-| **Frameworks & IDEs** | <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" /> <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" /> |
-| **Environments & OS** | <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> <img src="https://img.shields.io/badge/Android_OS-3DDC84?style=for-the-badge&logo=android&logoColor=white" /> |
+<p align="left">
+  <!-- Languages Group -->
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=Dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=Java&logoColor=white" />
+  <br>
+  <!-- Frameworks Group -->
+  <img src="https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Android_Studio-3DDC84?style=for-the-badge&logo=Android-Studio&logoColor=white" />
+  <br>
+  <!-- Core Systems Group -->
+  <img src="https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=Windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Android_OS-3DDC84?style=for-the-badge&logo=Android&logoColor=white" />
+</p>
+
+---
+
+### Workflow Activity
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME_HERE&theme=tokyonight&layout=compact&hide_border=true&langs_count=6" alt="Top Languages Chart" height="150px" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME_HERE&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" height="150px" />
+</p>
