@@ -54,3 +54,15 @@ The primary underlying host environments and target platforms navigated for syst
 </p>
 
 
+### <img src="https://github.com/user-attachments/assets/3e99e00f-1e0e-4ceb-983d-bf903ce76275" width="25" height="25" style="vertical-align: middle;" alt="Connect Link" /> Connect With Me
+> "Let's build something awesome together—reach out on any of the platforms below!"
+
+<a href="https://www.linkedin.com/in/abdul-rahman-m-9317203b0?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank"><img src="https://github.com/user-attachments/assets/cb9b51be-4ac7-4ff0-a1c3-ca29d9d58957" height="54" align="absmiddle" style="vertical-align: middle;" alt="LinkedIn" /></a> &nbsp;&nbsp; <span style="vertical-align: middle;"><b>Network:</b> Let's connect on <a href="https://www.linkedin.com/in/abdul-rahman-m-9317203b0?utm_source=share_via&utm_content=profile&utm_medium=member_android">LinkedIn</a></span>
+
+<div style="height: 12px;"></div>
+
+<a href="https://t.me/YiLaiKezi" target="_blank"><img src="https://github.com/user-attachments/assets/39e4e4ee-51f6-466d-9541-8a5c5e580af6" height="54" align="absmiddle" style="vertical-align: middle;" alt="Telegram" /></a> &nbsp;&nbsp; <span style="vertical-align: middle;"><b>Ping Me:</b> Message me on <a href="https://t.me/YiLaiKezi">Telegram</a></span>
+
+<div style="height: 12px;"></div>
+
+<a href="https://www.reddit.com/user/YiLaiKezi/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button" target="_blank"><img src="https://github.com/user-attachments/assets/b4a70c56-3fa0-4955-9e6f-b92dfb663ddd" height="54" align="absmiddle" style="vertical-align: middle;" alt="Reddit" /></a> &nbsp;&nbsp; <span style="vertical-align: middle;"><b>Engage:</b> Find me on <a href="https://www.reddit.com/user/YiLaiKezi/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button">Reddit</a></span>
