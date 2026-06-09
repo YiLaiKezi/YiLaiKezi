@@ -22,30 +22,20 @@
 * `$ grep "editor"`
   VS Code enjoyer.
 
-### Tech Stack
 
-<p align="left">
-  <!-- Languages Group -->
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=Dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=Java&logoColor=white" />
+
+### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F7F7F7&width=435&lines=%24+cat+core-arsenal.md;%23+Core+Arsenal" alt="Typing Effect" />
+
+* **$ ls /languages**  
   <br>
-  <!-- Frameworks Group -->
-  <img src="https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Android_Studio-3DDC84?style=for-the-badge&logo=Android-Studio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> &nbsp; <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" /> &nbsp; <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <br><br>
+
+* **$ ls /frameworks-and-ides**  
   <br>
-  <!-- Core Systems Group -->
-  <img src="https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=Windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Android_OS-3DDC84?style=for-the-badge&logo=Android&logoColor=white" />
-</p>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" /> &nbsp; <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" />
+  <br><br>
 
----
-
-### Workflow Activity
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME_HERE&theme=tokyonight&layout=compact&hide_border=true&langs_count=6" alt="Top Languages Chart" height="150px" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME_HERE&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" height="150px" />
-</p>
+* **$ ls /environments**  
+  <br>
+  <img src="https://img.shields.io/badge/Windows_11-0078D4?style=for-the-badge&logo=windows11&logoColor=white" /> &nbsp; <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> &nbsp; <img src="https://img.shields.io/badge/Android_OS-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
