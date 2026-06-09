@@ -11,8 +11,11 @@
 
 ---
 <!-- HEADER END -->
-
-### ⚡ whoami
+### ⚡ about me
 
 • **Year III Artificial Intelligence & Data Science Student.**
-• Distro-hopping through Linux, messing with device internals, and trying to figure out how things run under the hood. Currently cutting out AI shortcuts to actually learn programming, handle raw debugging failures, and build things from scratch.
+A student trying to actually master programming by ditching AI crutches, breaking systems apart, and learning how things work under the hood.
+
+### 🔌 connect with me
+
+> 📂 **GitHub** &nbsp;&middot;&nbsp; 💼 **LinkedIn** &nbsp;&middot;&nbsp; 📧 **Email**
