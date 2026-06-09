@@ -14,6 +14,5 @@
 
 ### ⚡ whoami
 
-• **Year III Artificial Intelligence & Data Science Undergraduate.**
-  `System-focused entity exploring OS internals, modifying configurations, and breaking down architectures.`
-  `Currently cutting out AI shortcuts to master independent development and build software from scratch.`
+• **Year III Artificial Intelligence & Data Science Student.**
+• Distro-hopping through Linux, messing with device internals, and trying to figure out how things run under the hood. Currently cutting out AI shortcuts to actually learn programming, handle raw debugging failures, and build things from scratch.
