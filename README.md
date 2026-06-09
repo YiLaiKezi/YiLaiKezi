@@ -43,5 +43,5 @@ The primary underlying host environments and target platforms navigated for syst
 
 <p align="left">
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=windows,linux&perline=2" height="75" alt="Environments" /></a>
-  <img src="http://googleusercontent.com/image_collection/image_retrieval/9976921987104879187_0" height="75" alt="Android OS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" height="75" alt="Android OS" />
 </p>
