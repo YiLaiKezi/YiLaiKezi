@@ -22,27 +22,30 @@
 * `$ grep "editor"`
   VS Code enjoyer.
 
-
-
 ### Core Arsenal
 
 #### Base Architecture & Core Languages
 The fundamental building blocks used to translate logic into scalable applications. Focused on strongly-typed execution and structured scripting.
 
 <p align="left">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py,dart,java&perline=3" height="75" alt="Languages" /></a>
+  <img src="https://skillicons.dev/icons?i=py" height="75" alt="Python" /> &nbsp; <b>Python</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=dart" height="75" alt="Dart" /> &nbsp; <b>Dart</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=java" height="75" alt="Java" /> &nbsp; <b>Java</b>
 </p>
 
 #### Native Ecosystems & Engineering Frameworks
 The core environments and development engines utilized to compile, build, and deploy high-performance cross-platform mobile applications.
 
 <p align="left">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=flutter,androidstudio&perline=2" height="75" alt="Frameworks and IDEs" /></a>
+  <img src="https://skillicons.dev/icons?i=flutter" height="75" alt="Flutter" /> &nbsp; <b>Flutter</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=androidstudio" height="75" alt="Android Studio" /> &nbsp; <b>Android Studio</b>
 </p>
 
 #### Operating Systems & Target Environments
 The primary underlying host environments and target platforms navigated for systems configurations, terminal operations, and hardware execution.
 
 <p align="left">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=windows,linux,android&perline=3" height="75" alt="Environments" /></a>
+  <img src="https://skillicons.dev/icons?i=windows" height="75" alt="Windows" /> &nbsp; <b>Windows</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=linux" height="75" alt="Linux" /> &nbsp; <b>Linux</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=android" height="75" alt="Android OS" /> &nbsp; <b>Android OS</b>
 </p>
