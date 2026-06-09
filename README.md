@@ -66,3 +66,17 @@ The primary underlying host environments and target platforms navigated for syst
 <div style="height: 12px;"></div>
 
 <a href="https://www.reddit.com/user/YiLaiKezi/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button" target="_blank"><img src="https://github.com/user-attachments/assets/b4a70c56-3fa0-4955-9e6f-b92dfb663ddd" height="54" align="absmiddle" style="vertical-align: middle;" alt="Reddit" /></a> &nbsp;&nbsp; <span style="vertical-align: middle;"><b>Engage:</b> Find me on <a href="https://www.reddit.com/user/YiLaiKezi/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button">Reddit</a></span>
+
+
+---
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Hot%20Beverage.png" width="30" height="30" style="vertical-align: middle;" alt="Coffee" /> Support My Work
+> "If my repositories saved you time or helped you build something awesome, consider supporting the late nights behind them!"
+
+<br>
+
+<div align="left">
+  <a href="YOUR_KOFI_LINK_HERE" target="_blank"><img src="https://github.com/user-attachments/assets/1e77384d-c391-4c10-bf91-bc4826635059" height="80" alt="Support me on Ko-fi" /></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="YOUR_RAZORPAY_LINK_HERE" target="_blank"><img src="https://github.com/user-attachments/assets/b36e77b4-050a-402d-a1f0-524e93adc1d1" height="80" style="border: 2px solid white; border-radius: 12px; padding: 10px 20px;" alt="Support via Razorpay" /></a>
+</div>
