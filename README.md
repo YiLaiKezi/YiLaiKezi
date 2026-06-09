@@ -42,5 +42,7 @@ The core environments and development engines utilized to compile, build, and de
 The primary underlying host environments and target platforms navigated for systems configurations, terminal operations, and hardware execution.
 
 <p align="left">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=windows,linux,android&perline=3" height="75" alt="Environments" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=windows" height="75" alt="Windows" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=linux" height="75" alt="Linux" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=android" height="75" alt="Android OS" /></a>
 </p>
