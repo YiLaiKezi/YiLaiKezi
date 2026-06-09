@@ -19,3 +19,14 @@
   Know enough about Android internals and Linux to work comfortably in the terminal, break down system configurations, and manually fix things when they go wrong.
 * `$ git commit -m "progress"`
   Spending time writing raw code, dealing with the inevitable build failures, and pushing working projects to GitHub.
+
+### Tech Stack
+
+* **$ ls /languages**  
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+
+* **$ ls /frameworks-and-ides**  
+  ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)
+
+* **$ ls /environments**  
+  ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
