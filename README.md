@@ -14,7 +14,7 @@
 ### ⚡ about me
 
 • **Year III Artificial Intelligence & Data Science Student.**
-A student trying to actually master programming by ditching AI crutches, breaking systems apart, and learning how things work under the hood.
+> Honestly just tired of copy-pasting bad AI code, so right now the goal is to actually learn how to program, manually debug the heavy errors, and figure out how systems run.
 
 ### 🔌 connect with me
 
