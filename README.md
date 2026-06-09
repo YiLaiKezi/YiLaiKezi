@@ -19,7 +19,10 @@
   Know enough about Android internals and Linux to work comfortably in the terminal, break down system configurations, and manually fix things when they go wrong.
 * `$ git commit -m "progress"`
   Spending time writing raw code, dealing with the inevitable build failures, and pushing working projects to GitHub.
+* `$ grep "editor"`
+  VS Code enjoyer.
 
+  
 ### Tech Stack
 
 * **$ ls /languages**  
