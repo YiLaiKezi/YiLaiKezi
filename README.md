@@ -24,18 +24,27 @@
 
 
 
-### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F7F7F7&width=435&lines=%24+cat+core-arsenal.md;%23+Core+Arsenal" alt="Typing Effect" />
+### Core Arsenal
 
-* **$ ls /languages**  
-  <br>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> &nbsp; <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" /> &nbsp; <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <br><br>
+<br/>
 
-* **$ ls /frameworks-and-ides**  
-  <br>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" /> &nbsp; <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" />
-  <br><br>
+<p align="left">
+  <!-- Languages -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,dart,java" alt="Languages" />
+  </a>
+</p>
 
-* **$ ls /environments**  
-  <br>
-  <img src="https://img.shields.io/badge/Windows_11-0078D4?style=for-the-badge&logo=windows11&logoColor=white" /> &nbsp; <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> &nbsp; <img src="https://img.shields.io/badge/Android_OS-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+<p align="left">
+  <!-- Frameworks & IDEs -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=flutter,androidstudio" alt="Frameworks and IDEs" />
+  </a>
+</p>
+
+<p align="left">
+  <!-- Environments -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=windows,linux,android" alt="Environments" />
+  </a>
+</p>
