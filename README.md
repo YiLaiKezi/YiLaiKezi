@@ -26,27 +26,23 @@
 
 ### Core Arsenal
 
-#### 🛡️ Base Architecture & Core Languages
+#### Base Architecture & Core Languages
 The fundamental building blocks used to translate logic into scalable applications. Focused on strongly-typed execution and structured scripting.
-<br/>
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=py,dart,java&perline=3" alt="Languages" height="65" />
-</a>
 
-<br/><br/>
+<p align="left">
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py,dart,java&perline=3" height="75" alt="Languages" /></a>
+</p>
 
-#### 📱 Native Ecosystems & Engineering Frameworks
+#### Native Ecosystems & Engineering Frameworks
 The core environments and development engines utilized to compile, build, and deploy high-performance cross-platform mobile applications.
-<br/>
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=flutter,androidstudio&perline=2" alt="Frameworks and IDEs" height="65" />
-</a>
 
-<br/><br/>
+<p align="left">
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=flutter,androidstudio&perline=2" height="75" alt="Frameworks and IDEs" /></a>
+</p>
 
-#### 💻 Operating Systems & Target Environments
+#### Operating Systems & Target Environments
 The primary underlying host environments and target platforms navigated for systems configurations, terminal operations, and hardware execution.
-<br/>
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=windows,linux,android&perline=3" alt="Environments" height="65" />
-</a>
+
+<p align="left">
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=windows,linux,android&perline=3" height="75" alt="Environments" /></a>
+</p>
