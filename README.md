@@ -28,22 +28,33 @@
 The fundamental building blocks used to translate logic into scalable applications. Focused on strongly-typed execution and structured scripting.
 
 <p align="left">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py,dart,java&perline=3" height="75" alt="Languages" /></a>
+  <img src="https://github-profile-navigator.vercel.app/api/v1/badges?name=Python&logo=Python&color=1e293b&logoColor=3776AB&style=3d" height="85" alt="Python" />
+  &nbsp;
+  <img src="https://github-profile-navigator.vercel.app/api/v1/badges?name=Dart&logo=Dart&color=1e293b&logoColor=0175C2&style=3d" height="85" alt="Dart" />
+  &nbsp;
+  <img src="https://github-profile-navigator.vercel.app/api/v1/badges?name=Java&logo=OpenJDK&color=1e293b&logoColor=ED8B00&style=3d" height="85" alt="Java" />
 </p>
+
+<br>
 
 #### Native Ecosystems & Engineering Frameworks
 The core environments and development engines utilized to compile, build, and deploy high-performance cross-platform mobile applications.
 
 <p align="left">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=flutter,androidstudio&perline=2" height="75" alt="Frameworks and IDEs" /></a>
+  <img src="https://github-profile-navigator.vercel.app/api/v1/badges?name=Flutter&logo=Flutter&color=1e293b&logoColor=02569B&style=3d" height="85" alt="Flutter" />
+  &nbsp;
+  <img src="https://github-profile-navigator.vercel.app/api/v1/badges?name=Android%20Studio&logo=AndroidStudio&color=1e293b&logoColor=3DDC84&style=3d" height="85" alt="Android Studio" />
 </p>
+
+<br>
 
 #### Operating Systems & Target Environments
 The primary underlying host environments and target platforms navigated for systems configurations, terminal operations, and hardware execution.
 
 <p align="left">
-  <a href="https://skillicons.dev" style="vertical-align: top;"><img src="https://skillicons.dev/icons?i=windows,linux&perline=2" height="75" alt="Environments" /></a>
-  <span style="display: inline-block; background-color: #0d1117; border-radius: 15px; width: 75px; height: 75px; min-width: 75px; min-height: 75px; max-width: 75px; max-height: 75px; display: inline-flex; align-items: center; justify-content: center; vertical-align: top; margin-left: -4px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" width="42" height="42" alt="Android OS" />
-  </span>
+  <img src="https://github-profile-navigator.vercel.app/api/v1/badges?name=Windows%2011&logo=Windows11&color=1e293b&logoColor=0078D4&style=3d" height="85" alt="Windows 11" />
+  &nbsp;
+  <img src="https://github-profile-navigator.vercel.app/api/v1/badges?name=Linux&logo=Linux&color=1e293b&logoColor=FCC624&style=3d" height="85" alt="Linux" />
+  &nbsp;
+  <img src="https://github-profile-navigator.vercel.app/api/v1/badges?name=Android%20OS&logo=Android&color=1e293b&logoColor=3DDC84&style=3d" height="85" alt="Android OS" />
 </p>
