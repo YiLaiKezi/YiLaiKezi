@@ -11,11 +11,8 @@
 
 ---
 <!-- HEADER END -->
-### 👤 whoami
 
-<code style="font-size: 13.5px; color: #c9d1d9; background: #0d1117; border: 1px solid #30363d; padding: 14px 20px; border-radius: 6px; display: block; line-height: 1.6;">
-<span style="color: #58a6ff; font-weight: bold;">abdul@yilaikezi:~$</span> whoami<br><br>
-➜ <b>Status:</b> Year III AI & Data Science Undergraduate<br>
-➜ <b>Stack:</b> Python • C • Linux • Data Models<br>
-➜ <b>Habits:</b> Tinkering with Android internals, breaking system architectures, and reading Manhwa.
-</code>
+### ⚡ whoami
+
+• **Year III Artificial Intelligence & Data Science Undergraduate.**
+> *An entity driven to understand system architectures from the ground up—exploring OS internals, modifying configurations, and breaking down how things run under the hood. Currently cutting out AI shortcuts to master independent development, solve complex debugging failures manually, and build reliable software from scratch.*
