@@ -22,26 +22,50 @@
 * `$ grep "editor"`
   VS Code enjoyer.
 
+
 ### Core Arsenal
 
 #### Base Architecture & Core Languages
 The fundamental building blocks used to translate logic into scalable applications. Focused on strongly-typed execution and structured scripting.
 
 <p align="left">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py,dart,java&perline=3" height="75" alt="Languages" /></a>
+  <samp>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Icons/JavaScript.gif" height="65" alt="JavaScript" /></a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Icons/Python.gif" height="65" alt="Python" /></a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://dart.dev/"><img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Icons/Dart.gif" height="65" alt="Dart" /></a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.java.com/"><img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Icons/Java.gif" height="65" alt="Java" /></a>
+  </samp>
 </p>
 
 #### Native Ecosystems & Engineering Frameworks
 The core environments and development engines utilized to compile, build, and deploy high-performance cross-platform mobile applications.
 
 <p align="left">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=flutter,androidstudio&perline=2" height="75" alt="Frameworks and IDEs" /></a>
+  <samp>
+    <a href="https://react.dev/"><img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Icons/React.gif" height="65" alt="React" /></a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.electronjs.org/"><img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Icons/Electron.gif" height="65" alt="Electron" /></a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://nodejs.org/"><img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Icons/NodeJS.gif" height="65" alt="Node.js" /></a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://flutter.dev/"><img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Icons/Flutter.gif" height="65" alt="Flutter" /></a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://developer.android.com/studio"><img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Icons/AndroidStudio.gif" height="65" alt="Android Studio" /></a>
+  </samp>
 </p>
 
 #### Operating Systems & Target Environments
 The primary underlying host environments and target platforms navigated for systems configurations, terminal operations, and hardware execution.
 
 <p align="left">
-  <a href="https://skillicons.dev" style="vertical-align: middle;"><img src="https://skillicons.dev/icons?i=windows,linux" height="75" alt="Environments" /></a>
-  <img src="https://img.shields.io/badge/-Android-0d1117?style=plastic&logo=android&logoColor=3DDC84&logoWidth=32" height="75" style="vertical-align: middle; margin-left: 6px; border-radius: 12px;" alt="Android OS" />
+  <samp>
+    <a href="https://www.microsoft.com/windows"><img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Icons/Windows.gif" height="65" alt="Windows" /></a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.linux.org/"><img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Icons/Linux.gif" height="65" alt="Linux" /></a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.android.com/"><img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Icons/Android.gif" height="65" alt="Android OS" /></a>
+  </samp>
 </p>
