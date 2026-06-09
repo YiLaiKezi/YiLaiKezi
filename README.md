@@ -11,11 +11,11 @@
 
 ---
 <!-- HEADER END -->
-### ⚡ About me
+### ⚡ about me
 
 • **Year III Artificial Intelligence & Data Science Student.**
-> Honestly just tired of copy-pasting bad AI code, so right now the goal is to actually learn how to program, manually debug the heavy errors, and figure out how systems run.
+> Focused on building things manually, grinding through complex debugging errors, and understanding exactly how system configurations and logic run.
 
-### Connect with me
+### connect with me
 
-> 💼 **LinkedIn** &nbsp;&middot;&nbsp; 📧 **Email**
+> 💼 **[LinkedIn](https://www.linkedin.com/in/)** &nbsp;&middot;&nbsp; ✈️ **[Telegram](https://t.me/YiLaiKezi)** &nbsp;&middot;&nbsp; 💬 **Discord:** `yilaikezi`
