@@ -22,7 +22,6 @@
 * `$ grep "editor"`
   VS Code enjoyer.
   
-<br>
 
 ### ❯ /portfolio
 > "The art of programming is the art of organizing complexity." — Edsger W. Dijkstra
