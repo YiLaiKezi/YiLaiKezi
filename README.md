@@ -77,4 +77,5 @@ If my repositories saved you time or helped you build something awesome, conside
   <a href="YOUR_RAZORPAY_LINK_HERE" target="_blank"><img src="https://img.shields.io/badge/Support%20via%20Razorpay-02042B?style=for-the-badge&logo=razorpay&logoColor=white" alt="Support via Razorpay" /></a>
   
   <br><br>
-  
+  <p>Every contribution directly funds workspace tools, server costs, and future open-source projects.</p>
+</div>
